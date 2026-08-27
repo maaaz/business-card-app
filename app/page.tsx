@@ -117,10 +117,10 @@ export default async function Home() {
         
         {/* Action Buttons */}
         <div className="flex flex-col gap-3">
-          <a href="https://github.com" target="_blank" className="w-full py-3 px-4 bg-emerald-600 rounded-lg border border-emerald-500 hover:bg-emerald-500 transition">
+          <a href="https://github.com/maaaz" target="_blank" className="w-full py-3 px-4 bg-emerald-600 rounded-lg border border-emerald-500 hover:bg-emerald-500 transition">
             GitHub
           </a>
-          <a href="https://linkedin.com" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
+          <a href="https://www.linkedin.com/in/mohammadmaaz04/" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
             LinkedIn
           </a>
 
